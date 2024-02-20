@@ -10,3 +10,7 @@
 4: Builded an HTTP API using Amazon API Gateway and an AWS Lambda function to invoke the Amazon SageMaker endpoint for inference.
 
 5: Used a web client to invoke the HTTP API and perform inference.
+
+Link to Api Website:
+
+Go To: https://reqbin.com/ 
